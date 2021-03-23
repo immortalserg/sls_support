@@ -2,6 +2,7 @@
 
 
 | Brand | name |  | Description |  |
+| -------------- | -------------- | -------------- | -------------- | -------------- |
 | BlitzWolf | 5j6ifxj | 5j6ifxj | BlitzWolf ZigBee PIR Sensor | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/5j6ifxj.png) |
 | BlitzWolf  | BW-IS2 |  | BlitzWolf Rechargeable Zigbee contact sensor (white-label of TuYa SNTZ007) (contact, battery_low, tamper, battery) | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/BW-IS2.png) |
 | Bosch  | ISW-ZPR1-WP13 |  | Bosch Motion sensor (temperature, battery, occupancy, battery_low, tamper) | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/ISW-ZPR1-WP13.png) |
@@ -143,5 +144,7 @@
 | Xiaomi  | ZNCZ04LM |  | Xiaomi Mi power plug ZigBee EU (switch, power, energy, temperature, voltage, current, consumer_connected, consumer_overload, led_disabled_night, power_outage_memory, auto_off) | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/ZNCZ04LM.png) |
 | Xiaomi  | ZNLDP12LM |  | Xiaomi Aqara smart LED bulb (light) | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/ZNLDP12LM.png) |
 | Yale  | YRD210-HA-605 |  | Yale Real living keyless push button deadbolt lock (lock, battery) | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/YRD210-HA-605.png) |
+
+
 
 
