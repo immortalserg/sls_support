@@ -1,5 +1,5 @@
 | № | image | Brand | name | Description |
-| --- | -------------- | -------------- | -------------- | -------------- |
+| - | -------------- | -------------- | -------------- | -------------- |
 | 1 | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/5j6ifxj.png) | BlitzWolf | 5j6ifxj | BlitzWolf ZigBee PIR Sensor |
 | 2 | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/BW-IS2.png) | BlitzWolf  | BW-IS2 | BlitzWolf Rechargeable Zigbee contact sensor (white-label of TuYa SNTZ007) (contact, battery_low, tamper, battery) |
 | 3 | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img/ISW-ZPR1-WP13.png) | Bosch  | ISW-ZPR1-WP13 | Bosch Motion sensor (temperature, battery, occupancy, battery_low, tamper) |
