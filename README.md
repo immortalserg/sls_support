@@ -141,3 +141,4 @@
 | 139 | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img2/ZNCZ04LM.png) | Xiaomi  | ZNCZ04LM | Xiaomi Mi power plug ZigBee EU (switch, power, energy, temperature, voltage, current, consumer_connected, consumer_overload, led_disabled_night, power_outage_memory, auto_off) |
 | 140 | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img2/ZNLDP12LM.png) | Xiaomi  | ZNLDP12LM | Xiaomi Aqara smart LED bulb (light) |
 | 141 | ![img](https://raw.githubusercontent.com/immortalserg/sls_support/main/img2/YRD210-HA-605.png) | Yale  | YRD210-HA-605 | Yale Real living keyless push button deadbolt lock (lock, battery) |
+
